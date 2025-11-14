@@ -4,7 +4,7 @@
 **brena-cmd/brena-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🤖 Computer Science bachelor at the Federal University of Ceará
-- 👩🏻‍💻 I’m currently working on FASTEF as a Test Analyst Jr
+- 👩🏻‍💻 I’m currently working on Digisystem as a Data Scientist Jr
 - 🔭 I am currently pursuing a Master's degree in computing at the Federal University of Ceará 
 - 📊 I’m looking to collaborate on machine learning and software development (backend) projects
 - 😄 Pronouns: She/her
